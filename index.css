@@ -1,4 +1,4 @@
-/* Elements in general */
+/* IN GENERAL */
 a, a:visited {
 	color: inherit ;
 	text-decoration: none ;
@@ -8,8 +8,9 @@ body {
 	background-color: #e2dcc5 ;
 }
 
-/* Specific elements */
+/* SPECIFIC */
 
+/* Home, Louisville, Minneapolis, FAQs */ 
 h1.tabs {
 	color: #3961a3 ;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
@@ -29,6 +30,7 @@ a.button:hover {
 	border: 0.5px solid #000000 ;
 }
 
+/* Daniel & Michelle */
 h2.title {
 	/* Font family linked from Google API */
 	font-family: 'Great Vibes' ;
@@ -36,6 +38,7 @@ h2.title {
 	text-align: center ;
 }
 
+/* Main Bahamas picture */
 img.bahamas {
 	border-radius: 8px ;
 	display: block ;

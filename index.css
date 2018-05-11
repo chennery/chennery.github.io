@@ -1,3 +1,8 @@
+/* Highlight "Home" for being on this page */
+#home {
+	color: #a8a8a8 ;
+}
+
 /* Daniel & Michelle */
 h2.title {
 	/* Font family linked from Google API */

@@ -10,7 +10,7 @@ body {
 
 /* Specific elements */
 
-h2.tabs {
+h1.tabs {
 	color: #3961a3 ;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
 	font-size: 27px ;
@@ -27,6 +27,13 @@ a.button {
 a.button:hover {
 	background-color: #e2dcc5 ;
 	border: 0.5px solid #000000 ;
+}
+
+h2.title {
+	/* Font family linked from Google API */
+	font-family: 'Great Vibes' ;
+	font-size: 45px ;
+	text-align: center ;
 }
 
 img.bahamas {

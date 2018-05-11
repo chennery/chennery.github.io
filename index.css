@@ -8,13 +8,6 @@ body {
 	background-color: #e2dcc5 ;
 }
 
-img {
-	display: block ;
-	margin-left: auto ;
-	margin-right: auto ;
-	width: 100% ;
-}
-
 /* Specific elements */
 
 h2.tabs {

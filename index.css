@@ -13,7 +13,7 @@ body {
 h2.tabs {
 	color: #3961a3 ;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
-	font-size: 25px ;
+	font-size: 27px ;
 	font-variant: small-caps ;
 	text-align: center ;
 }
@@ -30,8 +30,12 @@ a.button:hover {
 }
 
 img.bahamas {
+	border-radius: 8px ;
 	display: block ;
 	margin-left: auto;
 	margin-right: auto;
-	width: 70% ;
+	
+	height: auto ;
+	max-width: 100% ;
+	width: 50% ;
 }

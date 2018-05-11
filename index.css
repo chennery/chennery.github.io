@@ -14,6 +14,7 @@ h2.tabs {
 	color: #3961a3 ;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
 	font-size: 25px ;
+	font-variant: small-caps ;
 	text-align: center ;
 }
 
@@ -26,4 +27,11 @@ a.button {
 a.button:hover {
 	background-color: #e2dcc5 ;
 	border: 0.5px solid #000000 ;
+}
+
+img.bahamas {
+	display: block ;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70% ;
 }

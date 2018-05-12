@@ -28,8 +28,3 @@ a.button {
 	padding-right: 13px ;
 	transition-duration: 0.2s ;
 }
-
-a.button:hover {
-	background-color: #ffffff ;
-	border: 0.5px solid #000000 ;
-}
